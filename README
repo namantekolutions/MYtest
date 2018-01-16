@@ -1,1 +1,4 @@
 Working an answer_synthesis model.
+
+First I used the rougescre file to generate rougescores while parsing through the training dataset.
+FOr this run new_rouge.py which will generate a file containing the start and end location of the evidence snippet. The generated file is ids.txt
